@@ -74,4 +74,9 @@ nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_color='red', 
 
 plt.title('Network Graph of Base Stations', size=15)
 plt.axis('off')  # 关闭坐标轴
+
+
+# 保存图形到文件
+plt.savefig('datatransfer/knowledgegraph.png', format='png', dpi=300)  # 指定路径和文件格式
+
 plt.show()
