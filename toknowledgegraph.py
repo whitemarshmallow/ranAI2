@@ -37,22 +37,6 @@ for node1 in G.nodes(data=True):
             if dist < 5:  # 假设距离小于5公里的基站有边
                 G.add_edge(node1[0], node2[0], distance=dist)
 
-# # 绘制图
-# pos = nx.spring_layout(G)  # positions for all nodes
-#
-# # 节点大小示例
-# sizes = [G.nodes[node]['user_count'] for node in G.nodes]
-#
-# # 节点颜色示例：这里我们基于故障状态映射颜色
-# colors = ['red' if G.nodes[node]['fault'] else 'green' for node in G.nodes]
-# labels = {node: f"Station {node}" for node in G.nodes}
-#
-# nx.draw(G, pos, with_labels=True, node_color=colors, node_size=sizes, cmap=plt.cm.Blues, labels=labels, font_weight='bold', font_color='white')
-# nx.draw_networkx_edge_labels(G, pos, edge_labels={edge: f"{G[edge[0]][edge[1]]['distance']:.2f} km" for edge in G.edges}, font_color='red')
-#
-# plt.title("Network Graph of Base Stations")
-# plt.colorbar(plt.cm.ScalarMappable(cmap=plt.cm.Blues), ax=plt.gca(), orientation='vertical', label='Station score')
-# plt.show()
 
 # 假设 G 是你的图对象
 pos = nx.spring_layout(G)  # 为节点设置布局
