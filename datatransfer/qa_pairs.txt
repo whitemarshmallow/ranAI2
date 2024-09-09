@@ -1,5 +1,5 @@
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 879.0 GB, user count was 303.0, and fault status was not present.
@@ -299,7 +299,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 936.0 GB, user count was 120.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 683.0 GB, user count was 218.0, and fault status was not present.
@@ -599,7 +599,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 448.0 GB, user count was 85.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 220.0 GB, user count was 308.0, and fault status was not present.
@@ -899,7 +899,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 460.0 GB, user count was 58.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 925.0 GB, user count was 216.0, and fault status was not present.
@@ -1199,7 +1199,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 377.0 GB, user count was 13.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 693.0 GB, user count was 284.0, and fault status was not present.
@@ -1499,7 +1499,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 244.0 GB, user count was 135.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 219.0 GB, user count was 265.0, and fault status was not present.
@@ -1799,7 +1799,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 216.0 GB, user count was 64.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 514.0 GB, user count was 425.0, and fault status was not present.
@@ -2099,7 +2099,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 808.0 GB, user count was 76.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 458.0 GB, user count was 348.0, and fault status was not present.
@@ -2399,7 +2399,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 811.0 GB, user count was 216.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 279.0 GB, user count was 294.0, and fault status was not present.
@@ -2699,7 +2699,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 473.0 GB, user count was 172.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 729.0 GB, user count was 361.0, and fault status was not present.
@@ -2999,7 +2999,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 490.0 GB, user count was 463.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 646.0 GB, user count was 59.0, and fault status was not present.
@@ -3299,7 +3299,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 763.0 GB, user count was 215.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 714.0 GB, user count was 295.0, and fault status was not present.
@@ -3599,7 +3599,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 614.0 GB, user count was 225.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 495.0 GB, user count was 290.0, and fault status was not present.
@@ -3899,7 +3899,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 598.0 GB, user count was 50.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 454.0 GB, user count was 51.0, and fault status was not present.
@@ -4199,7 +4199,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 604.0 GB, user count was 464.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 178.0 GB, user count was 38.0, and fault status was not present.
@@ -4499,7 +4499,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 580.0 GB, user count was 269.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 338.0 GB, user count was 133.0, and fault status was not present.
@@ -4799,7 +4799,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 143.0 GB, user count was 123.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 912.0 GB, user count was 207.0, and fault status was not present.
@@ -5099,7 +5099,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 582.0 GB, user count was 292.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 540.0 GB, user count was 154.0, and fault status was not present.
@@ -5399,7 +5399,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 830.0 GB, user count was 41.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 692.0 GB, user count was 355.0, and fault status was not present.
@@ -5699,7 +5699,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 712.0 GB, user count was 335.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 615.0 GB, user count was 237.0, and fault status was not present.
@@ -5999,7 +5999,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 203.0 GB, user count was 128.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 628.0 GB, user count was 74.0, and fault status was not present.
@@ -6299,7 +6299,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 721.0 GB, user count was 66.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 140.0 GB, user count was 472.0, and fault status was not present.
@@ -6599,7 +6599,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 462.0 GB, user count was 280.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 920.0 GB, user count was 126.0, and fault status was not present.
@@ -6899,7 +6899,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 639.0 GB, user count was 153.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-01, how was the traffic and user count at cell ID 1?
 A: Traffic was 607.0 GB, user count was 330.0, and fault status was not present.
@@ -7199,7 +7199,7 @@ Q: On 2023-09-01, how was the traffic and user count at cell ID 99?
 A: Traffic was 820.0 GB, user count was 444.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 245.0 GB, user count was 201.0, and fault status was not present.
@@ -7499,7 +7499,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 138.0 GB, user count was 155.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 313.0 GB, user count was 313.0, and fault status was not present.
@@ -7799,7 +7799,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 581.0 GB, user count was 11.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 890.0 GB, user count was 225.0, and fault status was not present.
@@ -8099,7 +8099,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 860.0 GB, user count was 178.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 293.0 GB, user count was 398.0, and fault status was not present.
@@ -8399,7 +8399,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 136.0 GB, user count was 328.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 345.0 GB, user count was 354.0, and fault status was not present.
@@ -8699,7 +8699,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 641.0 GB, user count was 393.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 234.0 GB, user count was 151.0, and fault status was not present.
@@ -8999,7 +8999,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 874.0 GB, user count was 235.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 194.0 GB, user count was 377.0, and fault status was not present.
@@ -9299,7 +9299,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 721.0 GB, user count was 258.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 391.0 GB, user count was 267.0, and fault status was not present.
@@ -9599,7 +9599,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 645.0 GB, user count was 473.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 398.0 GB, user count was 78.0, and fault status was not present.
@@ -9899,7 +9899,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 928.0 GB, user count was 124.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 730.0 GB, user count was 28.0, and fault status was not present.
@@ -10199,7 +10199,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 102.0 GB, user count was 11.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 344.0 GB, user count was 453.0, and fault status was not present.
@@ -10499,7 +10499,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 212.0 GB, user count was 344.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 449.0 GB, user count was 274.0, and fault status was not present.
@@ -10799,7 +10799,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 740.0 GB, user count was 236.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 844.0 GB, user count was 260.0, and fault status was not present.
@@ -11099,7 +11099,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 266.0 GB, user count was 211.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 710.0 GB, user count was 395.0, and fault status was not present.
@@ -11399,7 +11399,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 655.0 GB, user count was 444.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 235.0 GB, user count was 490.0, and fault status was not present.
@@ -11699,7 +11699,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 489.0 GB, user count was 380.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 778.0 GB, user count was 18.0, and fault status was not present.
@@ -11999,7 +11999,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 698.0 GB, user count was 145.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 627.0 GB, user count was 47.0, and fault status was not present.
@@ -12299,7 +12299,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 728.0 GB, user count was 393.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 548.0 GB, user count was 220.0, and fault status was not present.
@@ -12599,7 +12599,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 573.0 GB, user count was 26.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 463.0 GB, user count was 280.0, and fault status was not present.
@@ -12899,7 +12899,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 251.0 GB, user count was 282.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 677.0 GB, user count was 446.0, and fault status was not present.
@@ -13199,7 +13199,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 735.0 GB, user count was 15.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 835.0 GB, user count was 500.0, and fault status was not present.
@@ -13499,7 +13499,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 651.0 GB, user count was 42.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 719.0 GB, user count was 336.0, and fault status was not present.
@@ -13799,7 +13799,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 143.0 GB, user count was 233.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 417.0 GB, user count was 464.0, and fault status was not present.
@@ -14099,7 +14099,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 852.0 GB, user count was 43.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-02, how was the traffic and user count at cell ID 1?
 A: Traffic was 419.0 GB, user count was 366.0, and fault status was not present.
@@ -14399,7 +14399,7 @@ Q: On 2023-09-02, how was the traffic and user count at cell ID 99?
 A: Traffic was 306.0 GB, user count was 82.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 480.0 GB, user count was 24.0, and fault status was not present.
@@ -14699,7 +14699,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 476.0 GB, user count was 56.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 434.0 GB, user count was 198.0, and fault status was not present.
@@ -14999,7 +14999,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 165.0 GB, user count was 415.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 351.0 GB, user count was 75.0, and fault status was not present.
@@ -15299,7 +15299,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 111.0 GB, user count was 451.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 716.0 GB, user count was 403.0, and fault status was not present.
@@ -15599,7 +15599,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 520.0 GB, user count was 231.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 559.0 GB, user count was 457.0, and fault status was not present.
@@ -15899,7 +15899,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 583.0 GB, user count was 474.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 687.0 GB, user count was 247.0, and fault status was not present.
@@ -16199,7 +16199,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 564.0 GB, user count was 201.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 721.0 GB, user count was 269.0, and fault status was not present.
@@ -16499,7 +16499,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 423.0 GB, user count was 7.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 994.0 GB, user count was 109.0, and fault status was not present.
@@ -16799,7 +16799,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 285.0 GB, user count was 101.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 888.0 GB, user count was 142.0, and fault status was not present.
@@ -17099,7 +17099,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 376.0 GB, user count was 444.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 940.0 GB, user count was 331.0, and fault status was not present.
@@ -17399,7 +17399,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 631.0 GB, user count was 155.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 287.0 GB, user count was 324.0, and fault status was not present.
@@ -17699,7 +17699,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 406.0 GB, user count was 356.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 609.0 GB, user count was 204.0, and fault status was not present.
@@ -17999,7 +17999,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 188.0 GB, user count was 36.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 705.0 GB, user count was 292.0, and fault status was not present.
@@ -18299,7 +18299,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 839.0 GB, user count was 238.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 442.0 GB, user count was 319.0, and fault status was not present.
@@ -18599,7 +18599,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 209.0 GB, user count was 390.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 769.0 GB, user count was 72.0, and fault status was not present.
@@ -18899,7 +18899,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 410.0 GB, user count was 385.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 797.0 GB, user count was 492.0, and fault status was not present.
@@ -19199,7 +19199,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 992.0 GB, user count was 469.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 929.0 GB, user count was 111.0, and fault status was not present.
@@ -19499,7 +19499,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 222.0 GB, user count was 92.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 597.0 GB, user count was 431.0, and fault status was not present.
@@ -19799,7 +19799,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 425.0 GB, user count was 58.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 136.0 GB, user count was 372.0, and fault status was not present.
@@ -20099,7 +20099,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 643.0 GB, user count was 15.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 968.0 GB, user count was 140.0, and fault status was not present.
@@ -20399,7 +20399,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 190.0 GB, user count was 423.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 210.0 GB, user count was 371.0, and fault status was not present.
@@ -20699,7 +20699,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 553.0 GB, user count was 180.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 676.0 GB, user count was 72.0, and fault status was not present.
@@ -20999,7 +20999,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 331.0 GB, user count was 265.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 470.0 GB, user count was 258.0, and fault status was not present.
@@ -21299,7 +21299,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 994.0 GB, user count was 107.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-03, how was the traffic and user count at cell ID 1?
 A: Traffic was 587.0 GB, user count was 152.0, and fault status was not present.
@@ -21599,7 +21599,7 @@ Q: On 2023-09-03, how was the traffic and user count at cell ID 99?
 A: Traffic was 133.0 GB, user count was 449.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 248.0 GB, user count was 120.0, and fault status was not present.
@@ -21899,7 +21899,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 704.0 GB, user count was 483.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 866.0 GB, user count was 79.0, and fault status was not present.
@@ -22199,7 +22199,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 952.0 GB, user count was 490.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 915.0 GB, user count was 129.0, and fault status was not present.
@@ -22499,7 +22499,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 719.0 GB, user count was 398.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 580.0 GB, user count was 412.0, and fault status was not present.
@@ -22799,7 +22799,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 549.0 GB, user count was 434.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 206.0 GB, user count was 106.0, and fault status was not present.
@@ -23099,7 +23099,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 601.0 GB, user count was 9.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 656.0 GB, user count was 356.0, and fault status was not present.
@@ -23399,7 +23399,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 112.0 GB, user count was 71.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 357.0 GB, user count was 483.0, and fault status was not present.
@@ -23699,7 +23699,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 970.0 GB, user count was 392.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 793.0 GB, user count was 27.0, and fault status was not present.
@@ -23999,7 +23999,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 257.0 GB, user count was 73.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 247.0 GB, user count was 18.0, and fault status was not present.
@@ -24299,7 +24299,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 531.0 GB, user count was 193.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 147.0 GB, user count was 33.0, and fault status was not present.
@@ -24599,7 +24599,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 161.0 GB, user count was 120.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 826.0 GB, user count was 356.0, and fault status was not present.
@@ -24899,7 +24899,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 907.0 GB, user count was 406.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 554.0 GB, user count was 318.0, and fault status was not present.
@@ -25199,7 +25199,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 517.0 GB, user count was 492.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 529.0 GB, user count was 85.0, and fault status was not present.
@@ -25499,7 +25499,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 767.0 GB, user count was 322.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 420.0 GB, user count was 426.0, and fault status was not present.
@@ -25799,7 +25799,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 945.0 GB, user count was 324.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 465.0 GB, user count was 223.0, and fault status was not present.
@@ -26099,7 +26099,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 705.0 GB, user count was 141.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 818.0 GB, user count was 151.0, and fault status was not present.
@@ -26399,7 +26399,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 570.0 GB, user count was 144.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 755.0 GB, user count was 327.0, and fault status was not present.
@@ -26699,7 +26699,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 184.0 GB, user count was 141.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 963.0 GB, user count was 146.0, and fault status was not present.
@@ -26999,7 +26999,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 786.0 GB, user count was 378.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 775.0 GB, user count was 311.0, and fault status was not present.
@@ -27299,7 +27299,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 448.0 GB, user count was 447.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 933.0 GB, user count was 431.0, and fault status was not present.
@@ -27599,7 +27599,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 764.0 GB, user count was 312.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 285.0 GB, user count was 487.0, and fault status was not present.
@@ -27899,7 +27899,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 193.0 GB, user count was 340.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 721.0 GB, user count was 495.0, and fault status was not present.
@@ -28199,7 +28199,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 230.0 GB, user count was 63.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 917.0 GB, user count was 289.0, and fault status was not present.
@@ -28499,7 +28499,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 194.0 GB, user count was 481.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-04, how was the traffic and user count at cell ID 1?
 A: Traffic was 398.0 GB, user count was 307.0, and fault status was not present.
@@ -28799,7 +28799,7 @@ Q: On 2023-09-04, how was the traffic and user count at cell ID 99?
 A: Traffic was 120.0 GB, user count was 355.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 325.0 GB, user count was 185.0, and fault status was not present.
@@ -29099,7 +29099,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 411.0 GB, user count was 30.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 264.0 GB, user count was 429.0, and fault status was not present.
@@ -29399,7 +29399,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 650.0 GB, user count was 493.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 148.0 GB, user count was 4.0, and fault status was not present.
@@ -29699,7 +29699,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 116.0 GB, user count was 28.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 897.0 GB, user count was 63.0, and fault status was not present.
@@ -29999,7 +29999,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 185.0 GB, user count was 382.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 151.0 GB, user count was 294.0, and fault status was not present.
@@ -30299,7 +30299,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 519.0 GB, user count was 276.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 501.0 GB, user count was 439.0, and fault status was not present.
@@ -30599,7 +30599,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 550.0 GB, user count was 234.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 316.0 GB, user count was 320.0, and fault status was not present.
@@ -30899,7 +30899,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 606.0 GB, user count was 350.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 857.0 GB, user count was 151.0, and fault status was not present.
@@ -31199,7 +31199,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 594.0 GB, user count was 223.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 628.0 GB, user count was 378.0, and fault status was not present.
@@ -31499,7 +31499,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 364.0 GB, user count was 282.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 753.0 GB, user count was 379.0, and fault status was not present.
@@ -31799,7 +31799,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 318.0 GB, user count was 464.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 166.0 GB, user count was 438.0, and fault status was not present.
@@ -32099,7 +32099,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 559.0 GB, user count was 426.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 944.0 GB, user count was 129.0, and fault status was not present.
@@ -32399,7 +32399,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 245.0 GB, user count was 199.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 849.0 GB, user count was 62.0, and fault status was not present.
@@ -32699,7 +32699,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 196.0 GB, user count was 105.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 957.0 GB, user count was 157.0, and fault status was not present.
@@ -32999,7 +32999,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 287.0 GB, user count was 311.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 263.0 GB, user count was 398.0, and fault status was not present.
@@ -33299,7 +33299,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 879.0 GB, user count was 277.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 893.0 GB, user count was 304.0, and fault status was not present.
@@ -33599,7 +33599,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 429.0 GB, user count was 217.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 872.0 GB, user count was 47.0, and fault status was not present.
@@ -33899,7 +33899,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 786.0 GB, user count was 24.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 423.0 GB, user count was 156.0, and fault status was not present.
@@ -34199,7 +34199,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 900.0 GB, user count was 113.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 623.0 GB, user count was 315.0, and fault status was not present.
@@ -34499,7 +34499,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 374.0 GB, user count was 144.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 774.0 GB, user count was 494.0, and fault status was not present.
@@ -34799,7 +34799,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 595.0 GB, user count was 24.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 745.0 GB, user count was 93.0, and fault status was not present.
@@ -35099,7 +35099,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 400.0 GB, user count was 171.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 106.0 GB, user count was 64.0, and fault status was not present.
@@ -35399,7 +35399,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 136.0 GB, user count was 34.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 586.0 GB, user count was 222.0, and fault status was not present.
@@ -35699,7 +35699,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 381.0 GB, user count was 314.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-05, how was the traffic and user count at cell ID 1?
 A: Traffic was 156.0 GB, user count was 147.0, and fault status was not present.
@@ -35999,7 +35999,7 @@ Q: On 2023-09-05, how was the traffic and user count at cell ID 99?
 A: Traffic was 700.0 GB, user count was 55.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 540.0 GB, user count was 57.0, and fault status was not present.
@@ -36299,7 +36299,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 656.0 GB, user count was 185.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 604.0 GB, user count was 174.0, and fault status was not present.
@@ -36599,7 +36599,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 620.0 GB, user count was 27.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 981.0 GB, user count was 170.0, and fault status was not present.
@@ -36899,7 +36899,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 312.0 GB, user count was 121.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 121.0 GB, user count was 279.0, and fault status was not present.
@@ -37199,7 +37199,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 450.0 GB, user count was 68.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 245.0 GB, user count was 469.0, and fault status was not present.
@@ -37499,7 +37499,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 176.0 GB, user count was 208.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 627.0 GB, user count was 354.0, and fault status was not present.
@@ -37799,7 +37799,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 873.0 GB, user count was 457.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 155.0 GB, user count was 167.0, and fault status was not present.
@@ -38099,7 +38099,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 804.0 GB, user count was 473.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 603.0 GB, user count was 466.0, and fault status was not present.
@@ -38399,7 +38399,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 419.0 GB, user count was 479.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 132.0 GB, user count was 234.0, and fault status was not present.
@@ -38699,7 +38699,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 989.0 GB, user count was 366.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 689.0 GB, user count was 295.0, and fault status was not present.
@@ -38999,7 +38999,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 155.0 GB, user count was 246.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 486.0 GB, user count was 243.0, and fault status was not present.
@@ -39299,7 +39299,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 566.0 GB, user count was 94.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 546.0 GB, user count was 426.0, and fault status was not present.
@@ -39599,7 +39599,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 506.0 GB, user count was 189.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 386.0 GB, user count was 17.0, and fault status was not present.
@@ -39899,7 +39899,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 283.0 GB, user count was 236.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 271.0 GB, user count was 146.0, and fault status was not present.
@@ -40199,7 +40199,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 367.0 GB, user count was 102.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 745.0 GB, user count was 420.0, and fault status was not present.
@@ -40499,7 +40499,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 892.0 GB, user count was 423.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 887.0 GB, user count was 390.0, and fault status was not present.
@@ -40799,7 +40799,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 761.0 GB, user count was 335.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 527.0 GB, user count was 281.0, and fault status was not present.
@@ -41099,7 +41099,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 863.0 GB, user count was 114.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 109.0 GB, user count was 275.0, and fault status was not present.
@@ -41399,7 +41399,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 601.0 GB, user count was 75.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 484.0 GB, user count was 50.0, and fault status was not present.
@@ -41699,7 +41699,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 431.0 GB, user count was 228.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 802.0 GB, user count was 459.0, and fault status was not present.
@@ -41999,7 +41999,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 910.0 GB, user count was 49.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 479.0 GB, user count was 46.0, and fault status was not present.
@@ -42299,7 +42299,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 615.0 GB, user count was 335.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 380.0 GB, user count was 97.0, and fault status was not present.
@@ -42599,7 +42599,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 541.0 GB, user count was 328.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 151.0 GB, user count was 198.0, and fault status was not present.
@@ -42899,7 +42899,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 639.0 GB, user count was 168.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-06, how was the traffic and user count at cell ID 1?
 A: Traffic was 836.0 GB, user count was 433.0, and fault status was not present.
@@ -43199,7 +43199,7 @@ Q: On 2023-09-06, how was the traffic and user count at cell ID 99?
 A: Traffic was 376.0 GB, user count was 218.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 432.0 GB, user count was 203.0, and fault status was not present.
@@ -43499,7 +43499,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 515.0 GB, user count was 305.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 166.0 GB, user count was 311.0, and fault status was not present.
@@ -43799,7 +43799,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 601.0 GB, user count was 247.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 425.0 GB, user count was 195.0, and fault status was not present.
@@ -44099,7 +44099,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 218.0 GB, user count was 44.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 805.0 GB, user count was 352.0, and fault status was not present.
@@ -44399,7 +44399,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 875.0 GB, user count was 424.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 672.0 GB, user count was 433.0, and fault status was not present.
@@ -44699,7 +44699,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 854.0 GB, user count was 57.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 874.0 GB, user count was 498.0, and fault status was not present.
@@ -44999,7 +44999,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 915.0 GB, user count was 340.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 524.0 GB, user count was 63.0, and fault status was not present.
@@ -45299,7 +45299,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 265.0 GB, user count was 160.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 366.0 GB, user count was 208.0, and fault status was not present.
@@ -45599,7 +45599,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 897.0 GB, user count was 432.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 511.0 GB, user count was 111.0, and fault status was not present.
@@ -45899,7 +45899,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 773.0 GB, user count was 353.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 917.0 GB, user count was 254.0, and fault status was not present.
@@ -46199,7 +46199,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 111.0 GB, user count was 213.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 339.0 GB, user count was 102.0, and fault status was not present.
@@ -46499,7 +46499,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 327.0 GB, user count was 197.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 263.0 GB, user count was 15.0, and fault status was not present.
@@ -46799,7 +46799,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 461.0 GB, user count was 441.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 137.0 GB, user count was 489.0, and fault status was not present.
@@ -47099,7 +47099,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 386.0 GB, user count was 144.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 483.0 GB, user count was 153.0, and fault status was not present.
@@ -47399,7 +47399,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 572.0 GB, user count was 488.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 577.0 GB, user count was 226.0, and fault status was not present.
@@ -47699,7 +47699,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 967.0 GB, user count was 389.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 130.0 GB, user count was 57.0, and fault status was not present.
@@ -47999,7 +47999,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 687.0 GB, user count was 399.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 467.0 GB, user count was 156.0, and fault status was not present.
@@ -48299,7 +48299,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 562.0 GB, user count was 268.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 626.0 GB, user count was 241.0, and fault status was not present.
@@ -48599,7 +48599,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 526.0 GB, user count was 247.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 841.0 GB, user count was 184.0, and fault status was not present.
@@ -48899,7 +48899,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 537.0 GB, user count was 366.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 732.0 GB, user count was 493.0, and fault status was not present.
@@ -49199,7 +49199,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 448.0 GB, user count was 151.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 119.0 GB, user count was 395.0, and fault status was not present.
@@ -49499,7 +49499,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 133.0 GB, user count was 128.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 714.0 GB, user count was 369.0, and fault status was not present.
@@ -49799,7 +49799,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 138.0 GB, user count was 354.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 629.0 GB, user count was 153.0, and fault status was not present.
@@ -50099,7 +50099,7 @@ Q: On 2023-09-07, how was the traffic and user count at cell ID 99?
 A: Traffic was 285.0 GB, user count was 150.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 0?
-A: Traffic was 388.0 GB, user count was 326.0, and fault status was not present.
+A: Traffic was 153.0 GB, user count was 184.0, and fault status was not present.
 
 Q: On 2023-09-07, how was the traffic and user count at cell ID 1?
 A: Traffic was 640.0 GB, user count was 368.0, and fault status was not present.
